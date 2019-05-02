@@ -8,15 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-**[Live page](https://cedric-f.github.io/Arcade-Game/)**
+**[Live page](https://cedric-f.github.io/Arcade/)**
 
 **Cloning the repository**
 ```
-git clone https://github.com/Cedric-F/Cedric-F.github.io.git
+git clone https://github.com/Cedric-F/Arcade.git
 ```
 
-Browse to the `Arcade-Game` directory.
-If needed, move it somewhere else.
 Run in a local server.
 
 ## Using the application
